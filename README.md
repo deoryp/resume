@@ -1,5 +1,6 @@
 # Scott Nichols
 **Software Engineer at Google**
+
 **deoryp@gmail.com**
 
 ## Summary
@@ -11,6 +12,7 @@ at migrating legacy monolithic systems in API driven micro-services, but that is
 do. I am full stack, but my strength is not pixel perfect replication of UI.
 
 *Specialties*: Java, Spring, Hibernate, JavaScript (polymer, backbone, marionette, grunt, gulp), node.js
+
 *Past-times*: iPhone Development in Objective-C, embedded development in C, woodworking
 
 ## Experience
@@ -24,27 +26,37 @@ do. I am full stack, but my strength is not pixel perfect replication of UI.
 Joined Riot as a Java Backend Engineer tasked to develop in the integration layer between the
 monetization store and the inventory / game loop platform. Have since been transitioned into
 Store Tech Lead for the Store Team. My new role has been helping decide what technology choices
-we as a team move forward with in an effort to separate and rewrite a php monolithic project. We
-have to do this in flight, using various techniques that allow us to deprecate the old and
-integrate the new in manageable releasable pieces. This has happened alongside releasing new
-features.
+we as a team move forward with in an effort to separate and rewrite a php monolithic project
+into a micro-service supported client side rendered application. This also provided Riot with
+an internal Store API to migrate away from using SQL scripts to RESTful API calls for things
+like season rewards and more. We have to do this in flight, using various techniques (proxies,
+shims and more) that allow us to deprecate the old and integrate the new in manageable
+releasable pieces. This has happened alongside releasing new features. My personal mission in
+this work was to deliver technical credit: build solutions that solved our current problem but
+also other teams problems at the same time.
 
 
 ### Sr. Software Engineer at Cedexis
 **March 2011 - January 2012** (11 months)
 
+Developed new features for the client portal for Cedexis main product, the CDN load-balancer.
 Used agile development on a 2 week release cycle. Team used jira to track issues, development
-was ticket based. Worked mostly in Java / Spring / Hibernate environment. Worked on the full
-stack, from writing jsp pages from html reference designs to implementing jQuery extensions,
-RESTful web controllers, creating RESTful web APIs, extending domain model objects and
-persisting them in the postgres database. Used Spring MVC-based design for frontend. Used
+was ticket based. Worked mostly in Java / Spring / Hibernate environment. Worked on the
+fullstack, from writing jsp pages from html reference designs to implementing jQuery
+extensions, RESTful web controllers, creating RESTful web APIs, extending domain model objects
+and persisting them in the postgres database. Used Spring MVC-based design for frontend. Used
 multi-tiered service layer for the backend. Project source control was git.
+
 
 ### Software Engineer (Contract) at Applied Minds
 **January 2009 - March 2011** (2 years 3 months)
 
-Worked with AVR32 and LPC2468 ARM7 micro-controllers performing various sensor and interface
-integration. (Terse for NDA reasons; VidMe was part/during this contract)
+Applied Minds is a company who solves problems for other companies. Sometimes this takes the
+form of a short term ideation and prototyping, so the work is varied and interesting. My
+involved projects ranged from kids toys, satellites, phone interaction experiments, file
+management software, and the occasional robot. Worked with AVR32 and LPC2468 ARM7
+microcontrollers performing various sensor and interface integration; Java; Javascript; iOS;
+(Terse for NDA reasons; VidMe was part/during this contract)
 
 
 ### Java/Spring Software Engineer at Cedexis
