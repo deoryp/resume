@@ -5,22 +5,18 @@
 
 ## Summary
 
-UPDATE THIS: I am interested in working on a broad array of technologies. I like working on
-everything from embedded microcontrollers to websites. The best job blends all the things and
-creates a fusion of the trades. I am interested in working abroad. I have become increasing good
-at migrating legacy monolithic systems in API driven micro-services, but that is not all I can
-do. I am full stack, but my strength is not pixel perfect replication of UI.
+I am a full stack technologist. I have strong opinions about technology choices and I can be pedantic. My work in service oriented architecture, embedded systems and client solutions revolves around my interest in developing useful software that is intuitive to use, and maintainable. I am a believer in good UX, which applies to API design, object inheritance, database relationships, and UI. I want surround myself with collaborative and passionate ideators who want to teach and learn together.
 
 *Specialties*: Java, Spring, Hibernate, JavaScript (polymer, backbone, marionette, grunt, gulp), node.js
 
-*Past-times*: iPhone Development in Objective-C, embedded development in C, woodworking
+*Past-times*: iPhone Development in Objective-C, C++, embedded development in C, handtool woodworking
 
 ## Experience
 
 ### Software Engineer at Google
 **September 2015 - Present** (1 year 10 months+)
 
-A part of Chrome Remote Desktop (CRD) working on a new iOS client. Migrated and rewrote the CRD
+Working as part of Chrome Remote Desktop (CRD) on a new iOS client. Migrated and rewrote the CRD
 iOS app to be housed inside of the Chromium repo. This provides visibility to the project and
 it's integration needs with other fast moving dependencies inside of Chromium. Rewrote core
 libraries used by CRD clients to be architecture agnostic with a small integration layer used
@@ -113,3 +109,6 @@ writing/modifying OEM drivers (OEM information, battery, and video drivers), wri
 applications to aid in verifying hardware/software functionality, and development on a system
 (driver, control panel application, and C# server application) to automatically download GPS
 ephemeris tables locally to hand-held device.
+
+
+Also see [Internships](Internships.md).
