@@ -5,7 +5,12 @@
 
 ## Summary
 
-I am a full stack technologist. I have strong opinions about technology choices and I can be pedantic. My work in service oriented architecture, embedded systems and client solutions revolves around my interest in developing useful software that is intuitive to use, and maintainable. I am a believer in good UX, which applies to API design, object inheritance, database relationships, and UI. I want surround myself with collaborative and passionate ideators who want to teach and learn together.
+I am a full stack technologist. I have strong opinions about technology choices and I can be
+pedantic. My work in service oriented architecture, embedded systems and client solutions
+revolves around my interest in developing useful software that is intuitive to use, and
+maintainable. I am a believer in good UX, which applies to API design, object inheritance,
+database relationships, and UI. I want surround myself with collaborative and passionate
+ideators who want to teach and learn together.
 
 *Specialties*: Java, Spring, Hibernate, JavaScript (polymer, backbone, marionette, grunt, gulp), node.js
 
