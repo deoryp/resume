@@ -1,4 +1,4 @@
-#### Manufacturing Test Engineer Intern (MECOP) at Garmin AT
+### Manufacturing Test Engineer Intern (MECOP) at Garmin AT
 **June 2006 - December 2006** (6 months)
 
 Designed, developed, and supported test fixtures and software used on the manufacturing line for circuit
@@ -6,7 +6,7 @@ boards to be used in aviation products. Responsibilities included evaluation and
 equipment (In#Circuit Test and Cable Harness Tester), PCB design, and hardware debug. Produced
 extensive documentation of procedures and design requirements.
 
-#### Wireless USB Compliance Intern (MECOP) at Intel
+### Wireless USB Compliance Intern (MECOP) at Intel
 **March 2005 - September 2005** (6 months)
 
 Co authored the UWSB Test Specification based on the WUSB Specification. Formulated assertions and test
@@ -14,15 +14,16 @@ outlines for the Test Specification, and from those wrote an addition to the USB
 tool to include WUSB specific changes and additions in protocol. The compliance verification tool is used by
 vendors to become a Certified Wireless USB device.
 
-#### Desktop Platform Group Computing Support Intern at Intel
+### Desktop Platform Group Computing Support Intern at Intel
 **2002 - 2004** (two internships, 8 months total)
 
 Acted as an internal software support team member, handling both walk#ins and phone calls. Required
 software problem solving and account administration for Unix/Linux and Windows Xp. Developed Perl
 scripts for Linux.
 
-#### Desktop Platform Group Logistics Intern at Intel
+### Desktop Platform Group Logistics Intern at Intel
 **December 2001 - June 2002** (7 months)
+
 Main responsibilities included hardware problem solving, support, and maintenance of a diverse population
 of hardware; Involved in operating system installation and management for Linux and Windows 2000/XP.
 Used ticketing system where due dates and communication to the customer were critical.
@@ -33,7 +34,7 @@ Used ticketing system where due dates and communication to the customer were cri
 Tasked with management of assets, testing and redeployment of hardware, reading shipments to be sent on-
 time daily.
 
-#### Network Quality Lab Intern at Intel
+### Network Quality Lab Intern at Intel
 **June 2000 - September 2000** (4 months)
 
 Developed/converted test cases for web-based paperless testing procedures to test LAN based encryption
