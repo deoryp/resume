@@ -18,22 +18,33 @@ do. I am full stack, but my strength is not pixel perfect replication of UI.
 ## Experience
 
 ### Software Engineer at Google
-**September 2015 - Present** (1 year 10 months)
+**September 2015 - Present** (1 year 10 months+)
+
+A part of Chrome Remote Desktop (CRD) working on a new iOS client. Migrated and rewrote the CRD
+iOS app to be housed inside of the Chromium repo. This provides visibility to the project and
+it's integration needs with other fast moving dependencies inside of Chromium. Rewrote core
+libraries used by CRD clients to be architecture agnostic with a small integration layer used
+on the native side.
+
+Active in Google 20% Time where I was able to learn new things from outside the team and bring
+them back for use on the main project and vice versa. Was an Intern Host for summer 2017.
+
 
 ### Sr Software Engineer at Riot Games
 **March 2012 - August 2015** (3 years 6 months)
 
 Joined Riot as a Java Backend Engineer tasked to develop in the integration layer between the
-monetization store and the inventory / game loop platform. Have since been transitioned into
-Store Tech Lead for the Store Team. My new role has been helping decide what technology choices
-we as a team move forward with in an effort to separate and rewrite a php monolithic project
-into a micro-service supported client side rendered application. This also provided Riot with
-an internal Store API to migrate away from using SQL scripts to RESTful API calls for things
-like season rewards and more. We have to do this in flight, using various techniques (proxies,
-shims and more) that allow us to deprecate the old and integrate the new in manageable
-releasable pieces. This has happened alongside releasing new features. My personal mission in
-this work was to deliver technical credit: build solutions that solved our current problem but
-also other teams problems at the same time.
+in-client store and the main platform. Later transitioned into Store Tech Lead for the Store
+Team. This role had been helping decide what technology choices we as a team move forward with
+in an effort to separate and rewrite a php monolithic project into a micro-service supported
+client side rendered application. This also provided Riot with an internal Store API to migrate
+away from using SQL scripts to RESTful API calls for things like season rewards and more. We
+have to do this in flight, using various techniques (proxies, shims and more) that allow us to
+deprecate the old and integrate the new in manageable releasable pieces. This has happened
+alongside releasing new features. My personal mission in this work was to deliver technical
+credit: build solutions that solved our current problem but also other teams problems at the
+same time. Along the way trying to level peers up, change the culture of the team to be open to
+ideation with an open mind.
 
 
 ### Sr. Software Engineer at Cedexis
